@@ -4,7 +4,7 @@ OVERVIEW
 
 Overview of the Analysis
 
-The purpose of this analysis is to determine if having a paid Vine review makes a difference in the percentage of 5-star reviews. The analyst will do this by finding data of the reviews, and  analyze biases towards the reviews that were written as part of the Vine program.
+The purpose of this analysis is to determine if having a paid Vine review makes a difference in the percentage of 5-star reviews. The analyst will do this by finding data of the reviews, and analyze biases towards the reviews that were written as part of the Amazon Vine program.
 
 RESULTS
 
@@ -22,10 +22,8 @@ Results of the Vine and non-Vine reviews are shown in the image below.
 
 Open the file containing Vine_non_Review_Results.
 
-![Vine_non_Vine_Review_Results]()
+![Vine_non_Vine_Review_Results](/resources/Vine_non_Vine_Review_Results.png)
 Close the file.
-
-    -- IMAGE HERE --
 
 SUMMARY
 
@@ -34,10 +32,8 @@ Biases of the Analysis
 Reviews from the Amazon Vine program do not provide any biases. As shown in the code and the results and results below, the reviews are based upon the total number of reviews, the number of 5-star reviews, the percentage of 5-star reviews for the Amazon Vine program and non-Vine program. Including the total amount of reviews altoghether. Providing results within the Vine program and outside of the Vine program provides a non-bias amount of reviews in the data presented. 
 
 Open the file containing Additional_Analysis.
-![Additional_Analysis]()
+![Additional_Analysis](/resources/Additional_Analysis.png)
 Close the file.
-
-  -- IMAGE HERE --
 
 One Additional Analysis
 
