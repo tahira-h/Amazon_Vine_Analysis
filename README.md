@@ -24,7 +24,6 @@ Open the file containing Vine_non_Review_Results.
 
 ![Vine_non_Vine_Review_Results](/resources/Vine_non_Vine_Review_Results.png)
 Close the file.
-
 SUMMARY
 
 Biases of the Analysis
