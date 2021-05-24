@@ -28,7 +28,9 @@ SUMMARY
 
 Biases of the Analysis
 
-Reviews from the Amazon Vine program do not provide any biases. As shown in the code and the results and results below, the reviews are based upon the total number of reviews, the number of 5-star reviews, the percentage of 5-star reviews for the Amazon Vine program and non-Vine program. Including the total amount of reviews altoghether. Providing results within the Vine program and outside of the Vine program provides a non-bias amount of reviews in the data presented. 
+Reviews from the Amazon Vine program do not provide any biases, in regards to the code that was used to find the data. As shown in the code and results below, the reviews are based upon the total number of reviews, the number of 5-star reviews, the percentage of 5-star reviews for the Amazon Vine program and non-Vine program. There would be a bias if there was only reviews from the Amazon Vine program, and not the non-Amazon Vine program.
+
+Additionally, the total number and percentage of 5-star reviews from the Amazon Vine program has a lower rate, in contrast to the 5-star reviews and percentage amount from the individuals who were not a part of the Amazon Vine program. This difference between reviews concludes that the results are not based upon the individuals being a part of the Amazon Vine program, but how well the program works for analysts when finding data. 
 
 Open the file containing Additional_Analysis.
 ![Additional_Analysis](/resources/Additional_Analysis.png)
